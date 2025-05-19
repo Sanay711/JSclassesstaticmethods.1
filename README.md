@@ -1,0 +1,1 @@
+# JSclassesstaticmethods.1
